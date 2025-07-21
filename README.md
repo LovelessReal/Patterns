@@ -19,5 +19,4 @@ qa-patterns/
 │   ├── bug-report.md            # Шаблон баг-репорта
 │   ├── test-case.md             # Шаблон тест-кейса
 │   └── checklist.md             # Общие чек-листы
-├── cheat-sheets/
 └── README.md
